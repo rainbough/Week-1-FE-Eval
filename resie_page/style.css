@@ -1,0 +1,102 @@
+body{
+	margin: 0;
+	height: 100%;
+	width: 100%;
+	font-family: 'Raleway', sans-serif;
+}
+
+#side{
+	width: 220px;
+	height: 800px;
+	background-color: #2E2E2E;
+	float: left;
+}
+
+#logo{
+	margin: 40px 0 0 40px;
+	width: 100px;
+}
+
+img{
+	
+	height: auto;
+}
+
+#side_nav{
+	margin: 40px 60px 0 0;
+}
+
+#side_nav ul{
+	list-style: none;
+	color: white;
+	text-align: center;
+	line-height: 2;
+	
+}
+#side_nav li{
+	text-transform: capitalize;
+}
+
+.box_right{
+/*	background-color: orange; */
+	float: left;
+	display: inline-block;
+	margin: 0 0 0 25px;
+}
+
+.header{
+	height: 120px;
+	width: 100%;
+	
+}
+.mininav{
+	margin: 40px 0 0 0;
+
+
+}
+
+.mininav p{
+	float:left;
+	display: inline-block;
+	margin: 0 8px 0 2px;
+	padding: 4px 2px 2px 2px;
+	color: #8F0909;
+	list-style: none;
+	text-align: center;
+	font-size: 14px;
+	font-style: bold;
+}
+.mininav p:hover{
+	background-color: #8F0909;
+	color: white;
+	border-radius: 4px;
+
+}
+
+ h2{
+ 	color: #8F0909;
+ }
+
+ .bottom{
+/* 	background-color: blue; */
+ 	display: inline-block;
+ }
+
+ .photo{
+ 	background-color: red;
+ 	width: 800px;
+}
+
+ .photo img{
+ 	width: 300px;
+ 	height: auto;
+    padding: 0px 25px 10px 0px;
+ /* background-color: yellow;*/
+    display: inline-block;
+    float: left;
+}
+
+ .pbox{
+ 	float: left;
+ }
+ 
